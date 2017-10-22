@@ -1,0 +1,27 @@
+#background{
+    background-image: url(http://wallpapercave.com/wp/YbWBMc0.jpg);
+    background-color: rgba(255,255,255,0.85);
+    background-blend-mode: lighten;
+    background-size: cover;
+}
+.title{
+    text-align: center;
+    font-family: fantasy;
+}
+h1{font-family: fantasy;
+}
+.img-responsive{
+    height: 400px;
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+.blockquote-reverse{
+    margin:20px 0 20px 0;
+}
+.ul-timeline{
+    display: flex;
+    justify-content: center;
+    padding: 0 30px 0 30px;
+}
